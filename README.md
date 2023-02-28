@@ -1,3 +1,3 @@
-# PI_N2_DA
-**Mercado Bursatil: Indice S&P50**
+# <h1 align="center">**`Mercado bursátil: Indice S&P500`**</h1>
+
 Proyecto Individual n°2

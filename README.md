@@ -4,5 +4,5 @@
 <img src = 'https://responsive.fxempire.com/v7/_fxempire_/sites/2/sp500-2.jpg?func=cover&q=70&width=500' height = 200>
 <p>
 
-
+**Introducción**
 Proyecto Individual n°2

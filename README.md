@@ -15,6 +15,6 @@ En este informe, realizaremos un análisis del índice S&P 500 utilizando datos 
 En general, el índice S&P 500 ha tenido un rendimiento muy sólido desde el año 2000. Si observamos el gráfico de la evolución del índice, podemos ver que hubo un declive significativo durante la crisis financiera de 2008, pero desde entonces el índice ha ido aumentando gradualmente. En particular, el período entre 2012 y 2020 fue un período de crecimiento constante para el índice, con algunas correcciones menores en el camino.
 
 <p align='center'>
-<img src = './src/SP500_CierreAjustado.png' height = 200>
+<img src = '../src/SP500_CierreAjustado.png' height = 200>
 <p>
 

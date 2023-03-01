@@ -46,6 +46,9 @@ Fecha
 Por último, se realizó un análisis de rendimiento y riesgo del S&P 500. La volatilidad anualizada del índice es del 0.2 y el rendimiento anualizado es del 0.07. Por lo tanto, se puede decir que el S&P 500 tiene un perfil de riesgo moderado, con un rendimiento anualizado que supera la inflación.
 
 ```python
+# Calcular la volatilidad anualizada
+volatilidad = retorno_diario_verificacion.std() * (252 ** 0.5)
+
 # Calcular el rendimiento anualizado
 retorno_anual = (1 + retorno_diario_verificacion.mean()) ** 252 - 1
 
@@ -87,6 +90,8 @@ Un Retorno Diario del 38%, lo que indica que es una empresa rentable y con un bu
 Su P/E Ratio se encuentra en un 88%, lo que sugiere que la empresa tiene un buen desempeño en comparación con sus competidores.
 
 En resumen, al considerar el alto rendimiento y equilibrio de riesgo del S&P 500 y la estabilidad financiera y crecimiento constante de NVIDIA, se puede concluir que invertir en esta empresa es una opción recomendable.
+
+
 
 **Cuando invertir**
 

@@ -10,6 +10,8 @@ El índice S&P 500 es uno de los índices más importantes y representativos del
 
 En este informe, realizaremos un análisis del índice S&P 500 utilizando datos históricos desde el año 2000 hasta la actualidad
 
+Tambien se puede ver en : https://soleesp-pi-n2-da-dashboard-wpd5a2.streamlit.app/NVIDIA
+
 **Evolución Historica**
 
 Se obtuVieron los datos del indice SP500 y se normalizaron para mejorar la comprension y lectura de datos

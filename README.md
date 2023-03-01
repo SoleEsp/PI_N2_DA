@@ -16,3 +16,10 @@ En general, el índice S&P 500 ha tenido un rendimiento muy sólido desde el añ
 
 <img src="./src/SP500_CierreAjustado.PNG"  height="250">
 
+Como se puede observar en la gráfica, el índice ha tenido una tendencia alcista en los últimos años, a pesar de los eventos de crisis económicas que han afectado al mundo. Por lo tanto, se puede considerar al S&P 500 como una buena opción de inversión a largo plazo.
+
+**Análisis de volatilidad y distribución**
+
+Para analizar la volatilidad y distribución de los rendimientos diarios del S&P 500 se realizó un histograma de los rendimientos diarios. A través de este histograma, se observa que los rendimientos tienen una distribución aproximadamente normal y que la volatilidad de los rendimientos es moderada.
+
+<img src="./src/SP500_histograma.PNG"  height="250">

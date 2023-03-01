@@ -74,4 +74,22 @@ En primer lugar, se puede observar en el gráfico del cierre ajustado de la empr
 
 <img src="./src/NVIDIA_CierreAjustado.PNG"  height="250">
 
+**KPI 1: Tasa de crecimiento anual compuesta**
 
+<img src="./src/NVIDIA_KPI1.PNG"  height="250">
+
+Se puede observar que cuenta con una Tasa de Crecimiento Anual Compuesta del 11%, lo que significa que ha mantenido un crecimiento estable a lo largo del tiempo.
+
+**KPI 2: Retorno diario (ROI)**
+
+<img src="./src/NVIDIA_KPI2.PNG"  height="250">
+
+Un Retorno Diario del 38%, lo que indica que es una empresa rentable y con un buen desempeño financiero.
+
+**KPI 3: Relación precio-beneficio (P/E Ratio)**
+
+<img src="./src/NVIDIA_KPI3.PNG"  height="250">
+
+Su P/E Ratio se encuentra en un 88%, lo que sugiere que la empresa tiene un buen desempeño en comparación con sus competidores.
+
+En resumen, al considerar el alto rendimiento y equilibrio de riesgo del S&P 500 y la estabilidad financiera y crecimiento constante de NVIDIA, se puede concluir que invertir en esta empresa es una opción recomendable.

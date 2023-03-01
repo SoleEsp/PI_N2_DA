@@ -93,3 +93,15 @@ Un Retorno Diario del 38%, lo que indica que es una empresa rentable y con un bu
 Su P/E Ratio se encuentra en un 88%, lo que sugiere que la empresa tiene un buen desempeño en comparación con sus competidores.
 
 En resumen, al considerar el alto rendimiento y equilibrio de riesgo del S&P 500 y la estabilidad financiera y crecimiento constante de NVIDIA, se puede concluir que invertir en esta empresa es una opción recomendable.
+
+**Cuando invertir**
+
+Este gráfico podría ayudarte a identificar qué días de la semana históricamente han tenido un mejor rendimiento para invertir en Nvidia. En el eje x del gráfico se muestran los días de la semana y en el eje y se muestra el promedio del precio de cierre ajustado para cada día de la semana en el período de tiempo que se haya utilizado para construir el DataFrame.
+
+<img src="./src/NVIDIA_inversion_dia.PNG"  height="250">
+
+
+Si observas que un día en particular ha tenido un promedio de cierre ajustado significativamente más alto que los demás días de la semana, entonces podría ser una buena señal para invertir en Nvidia en ese día de la semana en particular
+
+
+*Es importante tener en cuenta que cualquier inversión conlleva riesgos y es importante hacer una evaluación cuidadosa antes de tomar cualquier decisión. Si bien el análisis mostró que NVIDIA ha tenido un buen desempeño y puede ser una buena opción de inversión, siempre hay factores externos que pueden afectar el rendimiento de la empresa y del mercado en general. Es importante diversificar su cartera de inversiones y no colocar todos los huevos en una sola canasta.*

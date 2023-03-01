@@ -58,3 +58,20 @@ retorno_anual = (1 + retorno_diario_verificacion.mean()) ** 252 - 1
 # Calcular el perfil de riesgo
 perfil_de_riesgo = retorno_anual / volatilidad
 ```
+**¿Entonces que nos dice este analisis?**
+
+El análisis EDA y de rendimiento y riesgo del S&P 500 nos muestra que históricamente ha sido una inversión rentable y relativamente segura en comparación con otros activos financieros. A pesar de las fluctuaciones en el mercado y eventos como la crisis financiera de 2008 y la pandemia de COVID-19, el S&P 500 ha demostrado una tendencia al alza a largo plazo.
+
+Después de analizar el S&P 500 y ver que tiene un alto rendimiento y un equilibrio de riesgo, se decidió invertir en una de las empresas que conforman el índice, NVIDIA
+
+**¿Porque NVIDIA?**
+
+NVIDIA es una empresa líder en tecnología, con un fuerte enfoque en la innovación y el desarrollo de tecnologías avanzadas como la inteligencia artificial, la robótica y los vehículos autónomos. Además, NVIDIA ha experimentado un crecimiento significativo en los últimos años y ha demostrado una capacidad para superar a sus competidores en términos de innovación y desempeño financiero. Por lo tanto, invertir en NVIDIA puede ser una buena opción para aquellos que buscan invertir en una empresa con potencial de crecimiento a largo plazo en una industria en constante evolución.
+
+Por lo tanto, a continuación demostraremos por qué invertir en la empresa NVIDIA es una buena opción. 
+
+En primer lugar, se puede observar en el gráfico del cierre ajustado de la empresa que su precio ha ido en constante aumento desde el 2016, presentando un alto potencial de crecimiento.
+
+<img src="./src/NVIDIA_CierreAjustado.PNG"  height="250">
+
+

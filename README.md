@@ -46,12 +46,6 @@ Fecha
 Por último, se realizó un análisis de rendimiento y riesgo del S&P 500. La volatilidad anualizada del índice es del 0.2 y el rendimiento anualizado es del 0.07. Por lo tanto, se puede decir que el S&P 500 tiene un perfil de riesgo moderado, con un rendimiento anualizado que supera la inflación.
 
 ```python
-# Calcular la tasa de rendimiento diaria
-retorno_diario_verificacion = df_sp500['Cierre Ajustado'].pct_change()
-
-# Calcular la volatilidad anualizada
-volatilidad = retorno_diario_verificacion.std() * (252 ** 0.5)
-
 # Calcular el rendimiento anualizado
 retorno_anual = (1 + retorno_diario_verificacion.mean()) ** 252 - 1
 

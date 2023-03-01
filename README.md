@@ -12,7 +12,7 @@ En este informe, realizaremos un análisis del índice S&P 500 utilizando datos 
 
 **Evolución Historica**
 
-Se obtubieron los siguientes datos
+Se obtuVieron los datos del indice SP500 y se normalizaron para mejorar la comprension y lectura de datos
 
 <img src="./src/SP500_DATOS.PNG"  height="250">
 
@@ -28,3 +28,26 @@ Para analizar la volatilidad y distribución de los rendimientos diarios del S&P
 
 <img src="./src/SP500_histograma.PNG"  height="250">
 
+Para analizar la distribución y detectar valores atípicos en los rendimientos mensuales del S&P 500 se realizó un diagrama de caja. A través de este diagrama de caja, se observa que la mediana se encuentra en un nivel positivo, lo cual es una buena señal para los inversores. Además, se pueden observar algunos valores atípicos, los cuales se detallan a continuación:
+
+```python
+Fecha
+2002-09-30   -0.110024
+2008-10-31   -0.169425
+2009-02-28   -0.109931
+2011-10-31    0.107723
+2020-03-31   -0.125119
+2020-04-30    0.126844
+2020-11-30    0.107546
+>>> class Estructura_Pila(object):
+>>>     def __init__(self):
+>>>         self.__list = []
+>>> 
+>>>     # Agregar un elemento a la Pila
+>>>     def push(self, item):
+>>>         self.__list.append(item)
+>>> 
+>>>     # Quitar un elemento de la Pila
+>>>     def pop(self):
+>>>       
+```
